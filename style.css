@@ -81,3 +81,25 @@ footer {
     font-weight: bold;
     text-align: center;
 }
+
+#toast {
+    position: fixed;
+    top: 30px;
+    right: 30px;
+    background-color: rgba(30, 30, 30, 0.4);
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 500;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateX(100%);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    backdrop-filter: blur(4px);
+}
+
+#toast.show {
+    opacity: 1;
+    transform: translateX(0);
+}
