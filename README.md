@@ -12,7 +12,7 @@ A simple, clean web app that generates random color palettes with a single click
 
 ## Demo
 
-[Live Demo](#) <!-- Add your GitHub Pages link here after deploying -->
+[Live Demo](#https://luaadarsh.github.io/random-color-generator/) <!-- Add your GitHub Pages link here after deploying -->
 
 ## Tech Stack
 
@@ -31,7 +31,7 @@ A simple, clean web app that generates random color palettes with a single click
 Clone the repo and open `index.html` in your browser — no build steps or dependencies required.
 
 ```bash
-git clone https://github.com/<your-username>/random-color-generator.git
+git clone https://github.com/LuaAdarsh/random-color-generator.git
 cd random-color-generator
 ```
 
