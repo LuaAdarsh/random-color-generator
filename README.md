@@ -12,7 +12,7 @@ A simple, clean web app that generates random color palettes with a single click
 
 ## Demo
 
-[Live Demo](#https://luaadarsh.github.io/random-color-generator/) <!-- Add your GitHub Pages link here after deploying -->
+[Live Demo](https://luaadarsh.github.io/random-color-generator/) <!-- Add your GitHub Pages link here after deploying -->
 
 ## Tech Stack
 
